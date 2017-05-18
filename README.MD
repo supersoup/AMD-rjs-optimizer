@@ -26,4 +26,6 @@ r.js -o build.js
 
 [requirejs压缩工具r.js的build.js配置详解](http://www.chenliqiang.cn/node/22)
 
+[配置详解（英文版）](https://github.com/requirejs/r.js/blob/master/build/example.build.js)
+
 [r.js](https://github.com/requirejs/r.js)
